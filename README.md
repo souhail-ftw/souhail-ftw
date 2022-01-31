@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @souhail-ftw
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning react js / powerbi
-- 💞️ I’m looking to collaborate on opensource projects (data manipulation ; front end )
+- 🌱 I’m currently leaning python libraries for data visualisation
+- 💞️ I’m looking to collaborate on opensource projects (data science, data analysis .... )
 - 📫 How to reach me souhaildahmeni8@gmail.com
 
 <!---

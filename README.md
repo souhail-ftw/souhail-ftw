@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souhail-ftw
 - 👀 I’m interested in learning
-- 🌱 I’m currently leaning python libraries for data visualisation
+- 🌱 I’m currently leaning python libraries for EDA 
 - 💞️ I’m looking to collaborate on opensource projects (data science, data analysis .... )
 - 📫 How to reach me souhaildahmeni8@gmail.com
 
